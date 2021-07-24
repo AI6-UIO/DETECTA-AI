@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-#### Este es un repositorio del grupo de estudio de Saturday Ai
+### Este es un repositorio del grupo de estudio de Saturday Ai
 
-##### Repositorio creado para almacenar todos los desarrollos de proyecto DETECTAAI
+#### Repositorio creado para almacenar todos los desarrollos de proyecto DETECTAAI
 
 El grupo está conformado por: 
 - Andrea Mariana Escobar
