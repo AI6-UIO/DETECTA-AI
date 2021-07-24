@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Este es un repositorio del grupo de estudio de Saturday Ai
+### Este es un repositorio del grupo de estudio de Saturday AI
 
 #### Repositorio creado para almacenar todos los desarrollos de proyecto DETECTAAI
 
